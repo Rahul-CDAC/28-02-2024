@@ -1,0 +1,29 @@
+class Demo2{
+
+   public static void main(String args[])
+           {
+
+
+int a=100;
+
+switch(a)
+{
+
+case 5:
+
+  System.out.pritln("in case 5");
+
+case 10:
+
+System.out.pritln("in case 10");
+
+default :
+
+ System.out.pritln("default");
+
+}
+
+System.out.pritln("in main()");
+
+}
+

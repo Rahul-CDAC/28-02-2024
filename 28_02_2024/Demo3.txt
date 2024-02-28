@@ -1,0 +1,30 @@
+class Demo3{
+
+   public static void main(String args[])
+           {
+
+
+//int a=100;
+
+
+char c='r';
+switch(c){
+  case 'a':
+   System.out.println("case a");
+
+   break;
+case 'b':
+   System.out.println("case b");
+
+   break;
+default:
+   System.out.println("default");
+
+   break;
+
+
+
+System.out.println("in main()");
+
+}
+}
